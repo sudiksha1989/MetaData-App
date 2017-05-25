@@ -1,0 +1,18 @@
+{
+  "launch_path": "MetadataApp.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "MetaData App",
+  "version": "1.0.0",
+  "description": "To display the MetaData",
+  "developer": {
+  },
+  "icons": {
+    "48": "metadata2.jpg"
+  }
+}
